@@ -1,7 +1,2 @@
-aeoriaf
-<<<<<<< Updated upstream
-aoiyaf
-a9u
-=======
-AIJFAIPIJF
->>>>>>> Stashed changes
+gitのやり方わかってきた気がする。
+git push origin master:新しいブランチ
