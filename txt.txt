@@ -1,2 +1,0 @@
-gitのやり方わかってきた気がする。
-git push origin master:新しいブランチ
